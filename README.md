@@ -39,11 +39,11 @@ INSTALLATION
 
 Clone the repository:
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/RDCD-SOCIETY/PHOTO-LOCATION.git
 
 Enter the project directory:
 
-cd YOUR_REPOSITORY_NAME
+cd PHOTO-LOCATION
 
 Install dependencies:
 
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 Run the tool:
 
-python main.py
+python PE.py
 
 Replace "main.py" with your actual Python filename if different.
 
